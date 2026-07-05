@@ -47,7 +47,7 @@ SEE ALSO: <a href="#closely-related-external-resources">closely related external
 
 <span id="who-is-this-document-for"></span> **Who is this document for?**
 
-This document is for people are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
+This document is for people who are curious about, serious about (and anything in between) *very long-term, goal-oriented meditation*, as in years and a lifetime. (And "goal-oriented" includes "no goal" and/or radical, self-determined, open-ended provisionality!) 
 
 (So, this document is intended to comprehensively support both complete beginners and "maximally advanced" meditators.)
 
